@@ -1,0 +1,19 @@
+{
+  "name": "iqiyi",
+  "version": "1.0.0",
+  "description": "爱奇艺登陆,找回密码,忘记密码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangwenan/iqiyi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangwenan/iqiyi/issues"
+  },
+  "homepage": "https://github.com/zhangwenan/iqiyi#readme"
+}

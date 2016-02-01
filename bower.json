@@ -1,0 +1,20 @@
+{
+  "name": "iqiyi",
+  "description": "爱奇艺登陆,找回密码,忘记密码",
+  "main": "index.js",
+  "authors": [
+    "zhangwenan <jquerytech@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/zhangwenan/iqiyi",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
