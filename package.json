@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zhangwenan/iqiyi/issues"
   },
-  "homepage": "https://github.com/zhangwenan/iqiyi#readme"
+  "homepage": "https://github.com/zhangwenan/iqiyi#readme",
+  "dependencies": {
+    "nodegrass": "0.0.3"
+  }
 }
