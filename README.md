@@ -3,5 +3,6 @@
 
 # 找回密码使用方式
 ```javascript
+var iqiyi = require('iqiyi-util');
 iqiyi.find_pwd('test@qq.com');  // 爱奇艺账号可能是邮箱账号或者手机号码
 ```
