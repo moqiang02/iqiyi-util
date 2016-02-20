@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/zhangwenan/iqiyi#readme",
   "dependencies": {
+    "cookie-util": "^1.0.0",
     "nodegrass": "0.0.3"
   }
 }
